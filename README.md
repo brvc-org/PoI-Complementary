@@ -1,1 +1,1 @@
-# PoI Complementary Doc, 2008 Whitepaper Background
+# Proof-of-Identity Complementary Doc, 2008 Whitepaper Background
